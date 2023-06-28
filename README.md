@@ -2,4 +2,4 @@
 
 ## Coding Girl
 
-![Coding Girl](./vagrant/paiza/A.png)
+![Coding Girl](/A.png)
